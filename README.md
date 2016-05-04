@@ -1,2 +1,1 @@
-# viet-cl
-A solution to the 'Vietnamese school maths puzzle' in Common Lisp
+This project is now hosted at [GitLab](https://gitlab.com/duncan-bayne/viet-cl).
